@@ -13,7 +13,7 @@ console.log("The Sum of the Array is "+ " = "+ sum);
 let myArray=[10,20,30,40];
 // printing to screen the Array values
 console.log(myArray);
-// pinting the total sum of the Array
+// printing the total sum of the Array
 printSum(myArray);
 
 //Question 2
